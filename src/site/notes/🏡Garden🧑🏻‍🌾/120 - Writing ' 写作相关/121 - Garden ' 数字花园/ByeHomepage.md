@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/garden/120-writing/121-garden/bye-homepage/","tags":["gardenEntry"]}
 ---
 
-Hi, I'm 柏(Bai), AKA *Bye👋* on the Internet.
+# Intro
+Hi, **Bye** Here
 
 >[!note]
->This is my garden to save my note and thoughts
-
-
+>This is my garden to save my note and thought
