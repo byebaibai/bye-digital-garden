@@ -5,6 +5,4 @@
 Hi, I'm 柏(Bai), AKA *Bye👋* on the Internet.
 
 >[!note]
->This is my garden to save my note and thoughts
-
-
+>This is my garden to save my note and thought
