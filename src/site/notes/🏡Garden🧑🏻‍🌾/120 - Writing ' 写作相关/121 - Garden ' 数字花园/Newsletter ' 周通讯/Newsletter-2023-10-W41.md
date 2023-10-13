@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w41/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-13T10:56:56.720+08:00","updated":"2023-10-13T18:16:26.016+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w41/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-13T10:56:56.720+08:00","updated":"2023-10-13T18:24:51.473+08:00"}
 ---
 
 
 ### 阅读/观看
-###### 【博客】一种理性训练的方法：在进行决策时，大声对自己说 or 记录下来，`该决策能成的概率有多大？`，5%，或更低或更高？ —— [via:“This is what 5% feels like.”](https://rationalpoker.com/2011/04/21/this-is-what-5-feels-like/)
+###### 【博客】一种理性训练的方法：`在进行决策时，大声对自己说 or 记录下来，该决策能成的概率有多大？`，5%，更低或更高？ —— [via:“This is what 5% feels like.”](https://rationalpoker.com/2011/04/21/this-is-what-5-feels-like/)
 #方法论/决策 #知识点/心智模型 
 - 人们*潜意识中*会去相信自己倾向的事物，并找论据去证明其合理性 - [动机性推理（Motivated Reasoning）](https://www.lesswrong.com/tag/motivated-reasoning)
 	- 高估高概率发生的频率，低估低概率时间发生的频率
@@ -13,7 +13,7 @@
 
 
 ### 摘抄
-- 宝玉老师分享的**10个成为高效软件工程师的关键特质**[via](https://weibo.com/1727858283/4956308091175207?wm=3333_2001&from=10D9293010&sourcetype=weixin&s_trans=5853548695_4956308091175207&s_channel=4)：
+###### 宝玉老师分享的**10个成为高效软件工程师的关键特质**—— [via:微博](https://weibo.com/1727858283/4956308091175207?wm=3333_2001&from=10D9293010&sourcetype=weixin&s_trans=5853548695_4956308091175207&s_channel=4)
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
