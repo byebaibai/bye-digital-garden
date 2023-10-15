@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/homepage/","tags":["gardenEntry"],"created":"2023-10-05T20:16:41.499+08:00","updated":"2023-10-13T12:37:00.327+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/homepage/","tags":["gardenEntry"],"created":"2023-10-05T20:16:41.499+08:00","updated":"2023-10-14T21:50:53.762+08:00"}
 ---
 
 Hiiiiiiii，我是柏(Bai)，在网络上 AKA *Bye👋* 。
@@ -10,4 +10,5 @@ Hiiiiiiii，我是柏(Bai)，在网络上 AKA *Bye👋* 。
 
 目前（计划）开设的栏目有：
 1. 每周通讯：[[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletters List\|Newsletters List]]
+2. 读书笔记：
 
