@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w41/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-13T10:56:56.720+08:00","updated":"2023-10-22T12:12:27.584+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w41/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-13T10:56:56.720+08:00","updated":"2023-10-22T12:46:26.993+08:00"}
 ---
 
 
@@ -9,11 +9,11 @@
 
 
 
-##### 【博客】一种理性训练的方法：`在进行决策时，大声对自己说或记录下来，该决策能成的概率有多大？`，5%，更低或更高？
+
+##### 【博客】理性训练的方法：`在进行决策时，大声对自己说或记录下来，该决策能成的概率有多大？`，5%，更低或更高？- [via/rationalpoker](https://rationalpoker.com/2011/04/21/this-is-what-5-feels-like/)
 #方法论/决策 #知识点/心智模型 #平台/RationalPoker 
-> via：https://rationalpoker.com/2011/04/21/this-is-what-5-feels-like/
 - 人们*潜意识中*会去相信自己倾向的事物，并找论据去证明其合理性 - [动机性推理（Motivated Reasoning）](https://www.lesswrong.com/tag/motivated-reasoning)
-	- 高估高概率发生的频率，低估低概率时间发生的频率
+	- 从而：高估低概率发生的频率，低估高概率时间发生的频率
 - 借助*口头/记录校准*，对决策概率的估计进行*有意识的判断*，而不是潜意识默认执行
 	- 提升概率估计能力：**决策日记**（决策背景、预估概率、真实结果、复盘分析）
 
