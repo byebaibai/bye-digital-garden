@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w40/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-05T21:19:20.685+08:00","updated":"2023-10-13T10:58:09.326+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w40/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-05T21:19:20.685+08:00","updated":"2023-10-23T17:55:17.725+08:00"}
 ---
 
+
+<< [NONE] | [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletter-2023-10-W41\|Newsletter-2023-10-W41]]>>
 
 ### 阅读/观看
 - [【视频】产品老曾：听我的，必须干掉中台！- B 站](https://www.bilibili.com/video/BV1Dw411w74H/?buvid=Y445C541CC791A324B7CB01060576C102457&is_story_h5=false&mid=K%2FHc%2BD1V1teSXI%2B3hOX0jg%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=ipad&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1696517480&unique_k=gKlV3FA&up_id=1150472191&vd_source=be38f8b9d3d390dd8ba8e9828e3035ec)
