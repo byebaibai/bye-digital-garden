@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletters-list/","created":"2023-10-05T21:09:49.383+08:00","updated":"2023-10-22T12:00:06.263+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletters-list/","created":"2023-10-05T21:09:49.383+08:00","updated":"2023-10-23T15:55:50.759+08:00"}
 ---
 
 # 每周通讯
@@ -8,3 +8,4 @@
 * [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletter-2023-10-W40\|2023-10-W40]]
 * [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletter-2023-10-W41\|2023-10-W41]]
 * [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletter-2023-10-W42\|2023-10-W42]]
+* [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletter-2023-10-W43\|2023-10-W43]]
