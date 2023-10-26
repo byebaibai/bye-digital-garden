@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w43/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-23T15:55:50.812+08:00","updated":"2023-10-25T12:57:58.695+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w43/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-23T15:55:50.812+08:00","updated":"2023-10-26T12:27:06.761+08:00"}
 ---
 
 
 << [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletter-2023-10-W42\|Newsletter-2023-10-W42]] | [[Newsletter-2023-11-W44\|Newsletter-2023-11-W44]]>>
 
 ### 自我怀疑🤨
-- 预计在找到理想工作之前会**失败**好一段时间，不要急🥹
+- 在找到理想工作之前会**失败**好一段时间，不要急🥹
 
 ### 阅读/观看
 #### 博客
-
+- 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 ##### 杨紫琼在哈佛法学院2023毕业典礼上的演讲分享的建议
 #平台/微博 #方法论/心智 #作者/杨紫琼  [via/微博](https://weibo.com/1726294583/4906494988393036?wm=3333_2001&from=10DA093010&sourcetype=weixin&s_trans=5853548695_4906494988393036&s_channel=4)
-- Stay Loose（保持放松）
-- Know Your Limits（明白自己知道什么/不知道什么）
+- Stay Loose（保持放松） - Know Your Limits（明白自己知道什么/不知道什么）
 	- 知道自己的不足：**保持谦虚与学习的动力**
 	- 别人给自己设置的不足：**用来打破**
 - Find Your People（找到自己的团队）
@@ -35,8 +34,7 @@
 	- **限制焦点**：注意力是有限的，试图做所有事情将无法在任何事情上取得有意义的进展。
 	- **定期反思**
 	- **设定目标**（*具体、可衡量*），否则：`很容易在某件事上浪费时间，然后发明事后合理化来解释为什么它对业务有帮助`
-
-
+- 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -63,12 +61,13 @@
 
 </div></div>
 
-
+- [Michael Lynch](https://mtlynch.io/)分享了[他2018 年离开谷歌，进行创业的原因](https://mtlynch.io/why-i-quit-google/) 
+	- **量化所做事情对公司的积极影响**：在工作中需要为正在做的事情做好充分的书面记录，这对于后续晋升会有帮助
 
 
 #### 读书笔记
 ##### [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Book Note ' 读书笔记/The Power of Intuition - Gary Klein\|The Power of Intuition - Gary Klein]]
-
+- 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/garden/120-writing/121-garden/book-note/the-power-of-intuition-gary-klein/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -91,5 +90,80 @@
 	- `我正在观察一个绝对可靠的水晶球，它显示你的解释是错误的——现在用另一种方式解释相同的数据。`
 - **对选项进行对比**：尝试考虑几个选项，并评估每个选项的优点和缺点，以更好了解自己真正想要的
 
+
+</div></div>
+
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/garden/120-writing/121-garden/book-note/the-power-of-intuition-gary-klein/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+#### 超越头脑风暴，发挥创造力
+#知识点/团队建设
+>[!note] 头脑风暴「概念」
+>成员被要求尽可能生成许多想法，而不要对其进行批判性评价。并且，成员被要求尝试改进 ta 人的想法，而不是批判性评价 ta 们。目标是**让团队在一个想法上持续发展，直到创造力枯竭**。然后，团队又在另一个有潜力的想法上展开讨论。
+> >[!danger] 缺陷 - 头脑风暴并不如想象中有效
+> >1. *社会懒惰*：看到别人已经做了，自己就不会努力工作
+> >2. *群体因素*：人会在意自己形象，并不自觉的与 ta 人比较，干扰新想法的传输
+##### 导向性创造力
+> 在寻找解决方案的同时，需要发现我们所需要的东西，而不是漫无目的寻觅
+- *目标*，所希望达到的内容
+	- 无论是否有创造性，但需要是一个**有效的解决方案**（如：`一种新的提升工作效率方法`）
+	- 需要**采取行动**：失败没关系，其能帮助更好了解目标属性
+		- > 创造力取决于我们在构建解决问题的新方法时如何重新设定目标。如果我们始终固步自封于错误的目标中，无论我们有多有创造力，也不会取得多大进展。
+- *杠杆点*，实现目标的方式或机会
+	- 如：`新技术（ChatGPT）的出现`使我们能够实现以前不可能完成的事情
+	- > 找到其他人忽视的杠杆点，是创造性解决方案的关键
+- 目标与杠杆点之间的*连接*，**解决方案的起点**
+###### 如何在团队中培养「导向性创造力」
+1. **展示困境**：将团队或群体聚集在一起，描述已知或被认为与目标相关的内容（让人们提问以澄清所需的内容
+	- 目标各个方面之间存在的任何冲突或需要的权衡
+	- 迄今为止所尝试的努力，为什么没有奏效
+	- 关于找到解决方案中障碍的猜测
+2. **把小组成员单独派去工作**，但不要太久（定期澄清目标，生成选项，从选项中学习，重新生成更多选项等等）
+	- 如：`在下午进行思考，然后第二天再来讨论`，给成员更多时间进行有意识和无意识地思考
+3. **重组以呈现想法**：将小组聚在一起，负责人要求成员描述他们在独自工作时产生的想法和建议，汇集不同类型的专业知识。
+	- 领导者：经理/需要解决方案的人/拥有良好引导技巧的人
+	- 记录员：记录团队成员描述的想法。
+	- 目标优化员：责在制定目标时倾听并记录目标的细化过程
+4. **批评这些想法并确定新的目标特征**（即使小组喜欢某一想法）：来更加了解目标
+	- 如，`为什么一个选项行不通？`
+5. **将这些想法融入到一个改进的问题描述中**
+	- 领导者：应该考察*想法如何相互关联*
+	- 记录员 & 目标优化员：应该帮助团队*重新构思问题*，描述关于目标性质的所学内容以及原始目标描述的变化情况。
+6. **进行额外回合**：如果时间允许，重复步骤 2-5
+7. **聚焦于解决方案**：开展工作，以完成过程
+
+
+</div></div>
+
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/garden/120-writing/121-garden/book-note/the-power-of-intuition-gary-klein/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+#### 如何灵活调整和适应计划
+> **学会去适应（FreeStyle）**，而不是试图事先弄明白所有事情
+##### “计划-适应性”清单：确定一个计划是否具有适应性
+- 这是一个**模块化**还是**集成化**计划？
+	- 模块化（效率较低，但松散耦合）
+		- 不同任务能独立完成
+		- 留下一些管理储备或者未计划的资源
+	- 集成化（更高效，但没有灵活性）
+		- 许多任务依赖于其他任务的完成情况
+		- 每个资源都被紧密安排
+- **修订目标的潜力**有多大？
+	- 允许根据反馈（如进度）进行修改「`修剪树篱`
+	- 需要按照描述进行「`砍树`
+		- 没有从最初最初产品线中学习的余地
+- **计划者和执行者之间的关联**是什么？
+	- 密切合作时更容易适应
+	- 当联系被中断时，实际的执行者没有准备好留意问题的早期迹象或理解在计划中进行变更的结果
+- **通知其他人有关改变**有多容易？
+- 有多容易**检测问题**？
+	- 好的计划应该使得决策者`能够衡量进展并注意潜在的困难
+	- 按照里程碑进行计划可能会在完成计划前很难发现问题「需要`持续集成/持续交付`
+- **权利是集中**的吗？
+	- 权利集中得越多，发现问题、诊断问题以及对问题做出反应的时间就越长
 
 </div></div>
