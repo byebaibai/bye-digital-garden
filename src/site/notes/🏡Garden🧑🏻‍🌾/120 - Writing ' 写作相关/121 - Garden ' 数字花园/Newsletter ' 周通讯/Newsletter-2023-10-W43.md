@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w43/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-23T15:55:50.812+08:00","updated":"2023-10-27T12:56:46.198+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w43/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-23T15:55:50.812+08:00","updated":"2023-10-27T13:32:45.273+08:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 
 ### 阅读/观看
 #### 博客
+##### Takeaway
 - [Michael Lynch](https://mtlynch.io/)分享了[他成为独立开发者的第一年的故事&反思](https://mtlynch.io/solo-developer-year-1/)
 { #264abf}
 
@@ -19,6 +20,12 @@
 	- **设定目标**（*具体、可衡量*），否则：`很容易在某件事上浪费时间，然后发明事后合理化来解释为什么它对业务有帮助`
 - [Michael Lynch](https://mtlynch.io/)分享了[他2018 年离开谷歌，进行创业的原因](https://mtlynch.io/why-i-quit-google/) 
 	- **量化所做事情对公司的积极影响**：在工作中需要为正在做的事情做好充分的书面记录，这对于后续晋升会有帮助
+-  $\frac{创造内容时间}{阅读内容时间}$：[输入释放率, 如何充分利用输入信息](https://moretothat.com/release-ratio/)
+	- 保持 **释放率 > 0**：从小处着手，每天“创造些东西”，`日记 / 记录想法 / 语音笔记`
+	- 提高释放率：**拥有长期、专门项目**，`博客`
+	- 把握平衡：释放率有起有落，但需要＞0 
+
+##### 全文梳理
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -46,7 +53,6 @@
 
 </div></div>
 
-- 输入释放率
 
 #### 视频
 
@@ -56,7 +62,8 @@
 
 ##### 杨紫琼在哈佛法学院2023毕业典礼上的演讲分享的建议
 #平台/微博 #方法论/心智 #作者/杨紫琼  [via/微博](https://weibo.com/1726294583/4906494988393036?wm=3333_2001&from=10DA093010&sourcetype=weixin&s_trans=5853548695_4906494988393036&s_channel=4)
-- Stay Loose（保持放松） - Know Your Limits（明白自己知道什么/不知道什么）
+- Stay Loose（保持放松）
+- Know Your Limits（明白自己知道什么/不知道什么）
 	- 知道自己的不足：**保持谦虚与学习的动力**
 	- 别人给自己设置的不足：**用来打破**
 - Find Your People（找到自己的团队）
