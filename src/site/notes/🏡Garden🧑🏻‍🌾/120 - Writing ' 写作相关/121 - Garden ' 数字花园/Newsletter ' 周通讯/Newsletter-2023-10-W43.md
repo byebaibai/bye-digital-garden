@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w43/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-23T15:55:50.812+08:00","updated":"2023-10-27T13:32:45.273+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-10-w43/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-23T15:55:50.812+08:00","updated":"2023-10-27T13:35:17.030+08:00"}
 ---
 
 
@@ -21,8 +21,10 @@
 - [Michael Lynch](https://mtlynch.io/)分享了[他2018 年离开谷歌，进行创业的原因](https://mtlynch.io/why-i-quit-google/) 
 	- **量化所做事情对公司的积极影响**：在工作中需要为正在做的事情做好充分的书面记录，这对于后续晋升会有帮助
 -  $\frac{创造内容时间}{阅读内容时间}$：[输入释放率, 如何充分利用输入信息](https://moretothat.com/release-ratio/)
-	- 保持 **释放率 > 0**：从小处着手，每天“创造些东西”，`日记 / 记录想法 / 语音笔记`
-	- 提高释放率：**拥有长期、专门项目**，`博客`
+	- 保持 **释放率 > 0**：从小处着手，每天“创造些东西”
+		- `日记 / 记录想法 / 语音笔记`
+	- 提高释放率：**拥有长期、专门项目**
+		- `博客`
 	- 把握平衡：释放率有起有落，但需要＞0 
 
 ##### 全文梳理
