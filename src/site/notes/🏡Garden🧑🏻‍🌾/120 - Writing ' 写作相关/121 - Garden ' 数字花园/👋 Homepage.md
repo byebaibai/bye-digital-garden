@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/homepage/","tags":["gardenEntry"],"created":"2023-10-05T20:16:41.499+08:00","updated":"2023-10-23T15:57:05.247+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/homepage/","tags":["gardenEntry"],"created":"2023-10-05T20:16:41.499+08:00","updated":"2023-10-28T12:38:52.396+08:00"}
 ---
 
 
@@ -13,3 +13,11 @@ Hi，我是柏(Bai)，网络上 AKA *Bye👋* 。
 1. 每周通讯：[[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletters List\|Newsletters List]]
 2. 读书笔记：[[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Book Note ' 读书笔记/Book Notes\|Book Notes]]
 
+##### 最近 3 篇更新
+| 文件名称                                                                                                                                                      | 更新时间             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Newsletter ' 周通讯/Newsletter-2023-10-W43\|Newsletter-2023-10-W43]]                           | 2023.10.27 13:35 |
+| [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Book Note ' 读书笔记/The Power of Intuition - Gary Klein\|The Power of Intuition - Gary Klein]] | 2023.10.25 19:38 |
+| [[🏡Garden🧑🏻‍🌾/120 - Writing ' 写作相关/121 - Garden ' 数字花园/Book Note ' 读书笔记/Book Notes\|Book Notes]]                                                   | 2023.10.25 13:01 |
+
+{ .block-language-dataview}
