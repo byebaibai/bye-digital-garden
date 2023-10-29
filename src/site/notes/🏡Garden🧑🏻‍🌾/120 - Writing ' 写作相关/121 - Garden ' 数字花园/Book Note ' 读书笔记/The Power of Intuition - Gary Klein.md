@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/book-note/the-power-of-intuition-gary-klein/","tags":["状态/WIP","作者/GaryKlein","书籍/ThePowerOfIntuition","方法论/心智"],"created":"2023-10-14T21:53:10.625+08:00","updated":"2023-10-25T19:38:09.440+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/book-note/the-power-of-intuition-gary-klein/","tags":["状态/WIP","作者/GaryKlein","书籍/ThePowerOfIntuition","方法论/心智"],"created":"2023-10-14T21:53:10.625+08:00","updated":"2023-10-28T17:01:15.898+08:00"}
 ---
 
 
 >[!note] 直觉
->将经验转化为行动的方式，使我们意识到在发生的事情，并做出反应
+>将经验转化为行动的方式，使我们意识到在发生的事情（判断），并做出反应（决策）
+
+### 如何「培养」直觉
+
+识别优先决策（RPD）：如何利用自己的经验评估情况，并利用该经验来知道如何反应。
+
+### 如何「应用」直觉
+#### 如何做出「艰难抉择」
+
 
 #### 突破「固执己见」
 >[!question] 固执己见是什么？
