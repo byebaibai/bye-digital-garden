@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-11-w44/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-30T17:19:19.346+08:00","updated":"2023-10-30T17:59:55.365+08:00"}
+{"dg-publish":true,"permalink":"/garden/120-writing/121-garden/newsletter/newsletter-2023-11-w44/","tags":["Newsletter","时间/2023-10"],"created":"2023-10-30T17:19:19.346+08:00","updated":"2023-11-05T10:40:56.044+08:00"}
 ---
 
 
@@ -10,13 +10,6 @@
 
 
 ### 阅读/观看
-#### 博客/视频
-##### Takeaway
-
-##### 全文梳理
-
-#### 视频
-
 #### 言论
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
