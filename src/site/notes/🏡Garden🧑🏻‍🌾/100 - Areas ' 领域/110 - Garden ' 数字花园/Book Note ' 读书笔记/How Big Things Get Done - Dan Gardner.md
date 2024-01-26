@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/100-areas/110-garden/book-note/how-big-things-get-done-dan-gardner/","tags":["状态/WIP","作者/DanGardner","书籍/HowBigThingsGetDone","方法论/项目管理"],"created":"2024-01-21T13:11:40.721+08:00","updated":"2024-01-26T10:27:31.094+08:00"}
+{"dg-publish":true,"permalink":"/garden/100-areas/110-garden/book-note/how-big-things-get-done-dan-gardner/","tags":["状态/DONE","作者/DanGardner","书籍/HowBigThingsGetDone","方法论/项目管理"],"created":"2024-01-21T13:11:40.721+08:00","updated":"2024-01-26T10:31:43.654+08:00"}
 ---
 
 > 如何将愿景转化为一个按时交付的计划
