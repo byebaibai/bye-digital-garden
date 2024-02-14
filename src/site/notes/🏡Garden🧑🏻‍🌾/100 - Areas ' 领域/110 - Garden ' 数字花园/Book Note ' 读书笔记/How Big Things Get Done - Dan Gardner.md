@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/garden/100-areas/110-garden/book-note/how-big-things-get-done-dan-gardner/","tags":["状态/DONE","作者/DanGardner","书籍/HowBigThingsGetDone","方法论/项目管理"],"created":"2024-01-21T13:11:40.721+08:00","updated":"2024-01-26T10:31:43.654+08:00"}
+{"dg-publish":true,"permalink":"/garden/100-areas/110-garden/book-note/how-big-things-get-done-dan-gardner/","tags":["状态/DONE","作者/DanGardner","书籍/HowBigThingsGetDone","方法论/项目管理"],"created":"2024-01-21T13:11:40.721+08:00","updated":"2024-01-26T16:07:36.282+08:00"}
 ---
 
 > 如何将愿景转化为一个按时交付的计划
 
 >[!note] 项目管理铁律：项目一次又一次超出预算、超时、效益不达标
->![项目管理铁律.png|480](/img/user/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E9%93%81%E5%BE%8B.png)
+>![项目管理铁律.png|480](/img/user/%F0%9F%8F%A1Garden%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%8C%BE/900%20-%20Rest%20'%20%E5%85%B6%E4%BB%96/Figures/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E9%93%81%E5%BE%8B.png)
 >- 只有8.5％的项目在成本和时间上都达标。
 >- 仅有0.5％的项目在成本、时间和效益上都达标。
 >- 91.5％的项目超出预算、超时或两者兼有。
