@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/100-areas/110-garden/book-note/build-for-tomorrow-jason-feifer/","tags":["状态/DONE","作者/JasonFeifer","书籍/BuildForTomorrow","方法论/思维模型"],"created":"2024-02-08T21:30:31.347+08:00","updated":"2024-02-14T14:17:16.650+08:00"}
+{"dg-publish":true,"permalink":"/garden/100-areas/110-garden/book-note/build-for-tomorrow-jason-feifer/","tags":["状态/DONE","作者/JasonFeifer","书籍/BuildForTomorrow","方法论/思维模型"],"created":"2024-02-08T21:30:31.347+08:00","updated":"2024-02-14T14:19:25.439+08:00"}
 ---
 
 
@@ -34,7 +34,8 @@
 > 针对改变，建立起了新的范式来去应对
 - **把失败看做数据**：从每一刻的失败中退后一步，问自己，==我刚刚学到了什么我不知道的东西，其他人可能还没有学会？== 
 - **建立“熟悉之桥”**：识别旧经验中不会改变的部分，然后利用它们来重新框定面前的新机会的问题
-	- ==创造通往新事物的桥梁==，这样试图吸引的客户，就可以更容易地走过它。 （框定“为什么” 而不是 “是什么”![Build a Bridge of Familiarity.png|300](/img/user/Build%20a%20Bridge%20of%20Familiarity.png)
+	- ==创造通往新事物的桥梁==，这样试图吸引的客户，就可以更容易地走过它。 （框定“为什么” 而不是 “是什么”
+	- ![Build a Bridge of Familiarity.png|300](/img/user/Build%20a%20Bridge%20of%20Familiarity.png)
 - **问“为什么这样做？”**：确定并依靠我们的优势，而不是用不擅长的事情来稀释优势
 - **问“这是干什么用的？”**：帮助理解所从事的业务或者行动价值
 	- `如果我们从不质疑我们对某物用途的假设，那么我们就无法将我们的当前经验置于适当的背景中。`
